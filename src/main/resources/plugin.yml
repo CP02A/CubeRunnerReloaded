@@ -1,5 +1,5 @@
 name: CubeRunnerReloaded
-version: ${project.version}
+version: 1.0.0
 author: CP02A
 description: CubeRunners minigame
 main: com.github.cp02a.cuberunnerreloaded.CubeRunnerReloaded
