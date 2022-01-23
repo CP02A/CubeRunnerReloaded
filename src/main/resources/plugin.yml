@@ -1,0 +1,6 @@
+name: CubeRunnerReloaded
+version: ${project.version}
+author: CP02A
+description: CubeRunners minigame
+main: com.github.cp02a.cuberunnerreloaded.CubeRunnerReloaded
+api-version: 1.18
